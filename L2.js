@@ -1,4 +1,4 @@
-//condition And Loop 
+//condition And Loop
 // let age = 10;
 // if(age>=18){
 //     console.log("You are Allow to vote");
