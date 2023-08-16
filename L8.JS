@@ -36,3 +36,7 @@ console.log(Array7.indexOf(55));// .indexof it define the place of element in ar
 let Array8 = [61,62,63,64,65]
 Array8.splice(0,0,1); //.splice is used to add or replace content any index u want  {Note:- it cant be write in log }
 console.log("Your Splice is ready:- ",Array8);
+
+let Array9 = [71,72,73,74,75]
+ let Joining = Array9.join("__")
+console.log(Joining);
