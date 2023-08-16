@@ -1,5 +1,5 @@
 
-console.log("Hello Shanto");// To print 
+console.log("Hello Shanto");// To print
 
 let salarey = 20000 //let use only one time in one variable name 
 console.log(salarey);
