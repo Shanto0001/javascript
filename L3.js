@@ -1,6 +1,5 @@
 //LOOP {FOR , DO WHILE , FOR }
 
-
 for (let i = 0; i <= 10; i++) {
     console.log( "Shanto");
 }
